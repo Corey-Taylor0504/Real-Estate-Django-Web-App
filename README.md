@@ -160,7 +160,7 @@ Note: Please change those gmail credentials from real_estate folder you will get
 
 ## Acknowledgments
 
-Many thanks to [@bradtraversy](https://github.com/bradtraversy) for his awesome course.
+Many thanks to [@bradtraversy](https://github.com/topdev-1020) for his awesome course.
 
 ##### References
 
